@@ -1,2 +1,4 @@
 # firstrepo-01
-First GIThub repository
+First GIThub repository.
+<br>
+This is a demo repo.
